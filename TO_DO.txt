@@ -1,0 +1,5 @@
+
+## set map center from marker_location var in .resize event handelr
+## set this resize event handler
+## found way to re-set marker location var when not needed / un-approppriate
+??? when open existing item AND new attributes been addedd since this item was created - new attributes aren't being showing  - may be an idea to show ithem with some sort of alert??
